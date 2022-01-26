@@ -4,6 +4,15 @@ void main(){
   List<int> listInt = [];
   var listString = <String>[];
 
+  /// directly declare
+  /// var listNames = ['badrun', 'kali', 'ciliwung'];
+  /// var listNames = <String>['badrun', 'kali', 'ciliwung'];
+  /// var listNames = [
+  ///     'badrun',
+  ///     'kali',
+  ///     'ciliwung'
+  /// ];
+
   var names = <String>[];
   names.add('seagate'); 
   names.add('kingstone'); 
