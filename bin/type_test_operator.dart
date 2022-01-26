@@ -13,5 +13,4 @@ void main(){
   print(variableInt is! bool);
   print(variableInt is! String);
 
-
 }
